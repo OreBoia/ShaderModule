@@ -369,8 +369,8 @@
     "m_ObjectId": "30b5ffc0ca8242d3a3bb38b6b9a40a0d",
     "m_Title": "Calculate Color Swap Frequency",
     "m_Position": {
-        "x": -995.0,
-        "y": 207.99998474121095
+        "x": -995.0000610351563,
+        "y": 208.00003051757813
     }
 }
 
@@ -1029,8 +1029,8 @@
     "m_ObjectId": "ada0dcd7c7e94d22b7e795df9fd930da",
     "m_Title": "Change Color",
     "m_Position": {
-        "x": -413.0,
-        "y": 232.9999542236328
+        "x": -413.00006103515627,
+        "y": 233.00003051757813
     }
 }
 
